@@ -28,7 +28,7 @@ To develop a secure messaging system that allows users to send encrypted message
 
 ---
 
-## 🛠️ Technologies U
+## 🛠️ Technologies Us
 
 * **Java** – Core programming language
 * **Java Swing** – GUI development
