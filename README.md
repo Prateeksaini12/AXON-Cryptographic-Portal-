@@ -130,7 +130,7 @@ java -cp ".;lib/mysql-connector-j-9.7.0.jar" com.project.ui.MainUI
 
 ---
 
-## 🔐 Security Feat
+## 🔐 Security Featu
 
 * Clipboard restriction for sensitive data
 * Focus-based content protection
