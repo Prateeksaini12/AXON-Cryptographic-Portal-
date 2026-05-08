@@ -10,7 +10,7 @@ In today’s digital communication, sensitive messages can be easily accessed, c
 
 ---
 
-## 🎯 Objective
+## 🎯 Objec
 
 To develop a secure messaging system that allows users to send encrypted messages using a unique access key and a time limit. The system ensures messages are accessible only for a limited duration and are automatically deleted afterward. It also enhances security using anti-copy protection and supports steganography for hidden communication.
 
