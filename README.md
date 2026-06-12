@@ -94,7 +94,7 @@ java -cp ".;lib/mysql-connector-j-9.7.0.jar" com.project.ui.MainUI
 
 ---
 
-## 💡 How It Wor
+## 💡 How It Work
 
 1. User enters a message and sets a timer
 2. System generates a **secure key**
