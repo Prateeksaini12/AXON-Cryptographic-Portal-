@@ -66,7 +66,7 @@ USE secret_message_db;
 
 ---
 
-### Step 2: Create Tab
+### Step 2: Create Tabl
 
 ```sql id="sql2"
 CREATE TABLE messages (
