@@ -28,7 +28,7 @@ To develop a secure messaging system that allows users to send encrypted message
 
 ---
 
-## Live Demo
+## Live 
 🔗 https://axonthesecretmessageapp.netlify.app
 
 ## 🛠️ Technologies Used
