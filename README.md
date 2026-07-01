@@ -16,7 +16,7 @@ To develop a secure messaging system that allows users to send encrypted message
 
 ---
 
-## 🚀 Feature
+## 🚀 Features
 
 * 🔑 **Encryption with Unique Key** – Each message is secured with a generated code
 * ⏳ **Time-To-Live (TTL)** – Messages automatically expire after a set time
