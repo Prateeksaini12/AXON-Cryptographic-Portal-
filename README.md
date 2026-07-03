@@ -4,7 +4,7 @@ AXON is a **secure desktop-based cryptographic communication system** built usin
 
 ---
 
-## 📌 Problem Statement
+## 📌 Problem Stateme
 
 In today’s digital communication, sensitive messages can be easily accessed, copied, or misused due to lack of proper security mechanisms. Most systems do not provide features like time-based deletion or controlled visibility of data. This creates a risk of information leakage and unauthorized access.
 
